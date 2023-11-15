@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayetolu Samuel</h1>
 <h3 align="center">Self-taught Developer, problem-solving is my ambition</h3>
 
-- 💬 Ask me about **Kotlin,Java,Android(Kotlin/Java),Spring Boot**
+- 💬 Ask me about **Kotlin,Jetpack compose,Kotlin Multiplatform, SwiftUI, Java,Android(Kotlin/Java),Spring Boot**
 
 - 📫 How to reach me **ayetolusamuel@gmail.com**
 
