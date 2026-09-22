@@ -125,16 +125,7 @@ I enjoy working on products involving:
 * 🤖 AI-powered applications and intelligent assistants
 * 🧠 Developer tools and productivity solutions
 * 🌍 Technology products designed to solve practical problems
-
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayetolusamuel&show_icons=true&locale=en&layout=compact" alt="Ayetolu Samuel's Top Languages" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ayetolusamuel&show_icons=true&locale=en" alt="Ayetolu Samuel's GitHub Stats" />
-</p>
+  
 
 ### 🤝 Let's Connect
 
