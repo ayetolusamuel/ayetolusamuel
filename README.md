@@ -3,7 +3,7 @@
 <h3 align="center">Mobile & AI Engineer | Kotlin Multiplatform | Android | Spring Boot</h3>
 
 <p align="center">
-  <a href="https://github.com/ayetolusamuel">GitHub</a> •
+  <a href="https://x.com/ayetolu_samuel">Twitter(X)</a> •
   <a href="https://www.linkedin.com/in/ayetolu-samuel/">LinkedIn</a>
 </p>
 
